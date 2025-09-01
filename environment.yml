@@ -3,3 +3,5 @@ dependencies:
   - python=3.12
   - conda-forge::pydantic
   - conda-forge::email-validator
+  - conda-forge::python-dotenv
+  - conda-forge::openai
