@@ -5,3 +5,4 @@ dependencies:
   - conda-forge::email-validator
   - conda-forge::python-dotenv
   - conda-forge::openai
+  - conda-forge::instructor
